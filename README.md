@@ -12,3 +12,5 @@ Obtained Information of Indian Politicians from Wikipedia using Beautiful Soup
     - Image URL
     - If any information is missing then use 0 in it's place
 - Finally the information has to stored in Excel Format
+
+Created by - Shivam Gupta
