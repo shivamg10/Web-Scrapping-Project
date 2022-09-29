@@ -14,6 +14,7 @@ Obtained Information of Indian Politicians from Wikipedia using Beautiful Soup
 - Finally the information has to stored in Excel Format
 
 # Code File
-Just in case you get overwhelmed by seeing so many files, and just concerned with code file - here is the code File [**Jupyter Notebook**](Indian Politicians by city or towns.ipynb)
+Just in case you get overwhelmed by seeing so many files, and just concerned with code file :- 
+Here is the code File [**Jupyter Notebook**] (/Indian Politicians by city or towns.ipynb)
 
 Created by - Shivam Gupta
