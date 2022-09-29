@@ -13,4 +13,7 @@ Obtained Information of Indian Politicians from Wikipedia using Beautiful Soup
     - If any information is missing then use 0 in it's place
 - Finally the information has to stored in Excel Format
 
+# Code File
+Just in case you get overwhelmed by seeing so many files, and just concerned with code file - here is the code File [**Jupyter Notebook**]()
+
 Created by - Shivam Gupta
